@@ -13,5 +13,3 @@ An end-to-end data analytics project processing historical global socio-economic
 ![Global Economic & Human Development Dashboard](dashboard_overview.png)
 
 ---
-
-## 🚀 Project Architecture & Workflow
